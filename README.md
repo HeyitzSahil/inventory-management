@@ -66,5 +66,5 @@ Add discounts and categories
 
 ✨ Author
 
-Sahil Mukherjee
+Sahil Swarnakar
 👨‍💻 BTech CSE (AI) Student | Python & ML Enthusiast
